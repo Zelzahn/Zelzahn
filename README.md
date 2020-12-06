@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Zelzahn/Zelzahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Non-exhaustive list of personal projects  
+### ReporTex
+Description: Report LaTeX template  
+Link: https://github.com/Zelzahn/ReporTex  
+
+### Tocht door het Donker  
+Description: Party management for my Out of the Abyss campaign.  
+Link: https://gitlab.com/Zelzahn/tocht-door-het-donker  
+
+### Sokoban clone
+Description: A sokoban clone I wrote to learn JavaFX  
+Link: https://github.com/Zelzahn/Sokoban  
+  
+  
+  
+*Based upon: [DaanWet](https://github.com/DaanWet/DaanWet)*
