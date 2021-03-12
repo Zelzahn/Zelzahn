@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## Non-exhaustive list of personal projects  
+### Moleskine
+Description: A discord bot for the popular Belgian tv show "De Mol"
+Link: https://github.com/Zelzahn/Moleskine
+
 ### ReporTex
 Description: Report LaTeX template  
 Link: https://github.com/Zelzahn/ReporTex  
